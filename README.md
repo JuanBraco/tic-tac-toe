@@ -1,4 +1,7 @@
-# tic-tac-toe
+# Tic-tac-toe Game
+
 Tic-Tac-Toe game created with HTML, CSS and JS.
 
-live-demo : https://juanbraco.github.io/tic-tac-toe/
+# live-demo
+
+[Tic-tac-toe](https://juanbraco.github.io/tic-tac-toe/)
