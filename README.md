@@ -1,2 +1,4 @@
 # tic-tac-toe
-tic-tac-toe game using HTML/CSS/JS
+Tic-Tac-Toe game created with HTML, CSS and JS.
+
+live-demo : 
